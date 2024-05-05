@@ -23,38 +23,38 @@ BashDBMS is a simple database management system implemented in Bash. It provides
 
 3. The menu-driven interface guides you through the available options. Simply choose the desired operation and provide the required inputs.
 
-   # Examples
-   # Creating a Database
+   #Examples
+   #Creating a Database
 ./menu
 
-# Choose 'CreateDB' from the main menu
-# Enter the name of the new database when prompted
+#Choose 'CreateDB' from the main menu
+#Enter the name of the new database when prompted
 
 # Creating a Table
 
 ./menu
 
-# Choose 'CreateTable' from the table menu
-# Follow the prompts to specify table details such as name, columns, and primary key
+#Choose 'CreateTable' from the table menu
+#Follow the prompts to specify table details such as name, columns, and primary key
 
 # Inserting Data into a Table
 
 ./menu
 
-# Choose 'InsertToTable' from the table menu
-# Enter the table name and provide values for each column
+#Choose 'InsertToTable' from the table menu
+#Enter the table name and provide values for each column
 
 # Selecting Data from a Table
 
 ./menu
 
-# Choose 'SelectFromTable' from the table menu
-# Select the desired option to retrieve all rows or filter by specific criteria
+#Choose 'SelectFromTable' from the table menu
+#Select the desired option to retrieve all rows or filter by specific criteria
 
 # License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgements
+#  Acknowledgements
 
     Inspired by the need for a lightweight database management system for small-scale projects.
     Built with Bash, a powerful scripting language available on Unix-like operating systems.
