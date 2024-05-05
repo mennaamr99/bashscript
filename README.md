@@ -23,8 +23,8 @@ BashDBMS is a simple database management system implemented in Bash. It provides
 
 3. The menu-driven interface guides you through the available options. Simply choose the desired operation and provide the required inputs.
 
-   #Examples
-   #Creating a Database
+   # Examples
+   # Creating a Database
 ./menu
 
 #Choose 'CreateDB' from the main menu
